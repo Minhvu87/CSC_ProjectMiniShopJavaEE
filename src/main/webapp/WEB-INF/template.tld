@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<taglib version="2.1" xmlns="http://java.sun.com/xml/ns/javaee" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd">
+  <tlib-version>1.0</tlib-version>
+  <short-name>template</short-name>
+  <uri>/WEB-INF/template</uri>
+  <tag-file>
+    <name>bg</name>
+    <path>/WEB-INF/tags/bg.tag</path>
+  </tag-file>
+  <tag-file>
+    <name>bghome</name>
+    <path>/WEB-INF/tags/bghome.tag</path>
+  </tag-file>
+  <tag-file>
+    <name>bgpanel</name>
+    <path>/WEB-INF/tags/bgpanel.tag</path>
+  </tag-file>
+</taglib>
