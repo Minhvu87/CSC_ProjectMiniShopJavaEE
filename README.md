@@ -1,4 +1,5 @@
-"# ProjectMiniShopJavaEE" 
+# **Project MiniShop Using JavaEE** #
+
 1.Home
 1.1 Home Search
 <img width="264" alt="image" src="https://user-images.githubusercontent.com/44714241/181416127-dc14bf23-2307-4405-9ff9-79f5aec24a9c.png">
